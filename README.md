@@ -1,6 +1,8 @@
 # Nicolas Bonnefont
 
-Desenvolvedor React https://morinfo.com.br
+Desenvolvedor React na empresa https://morinfo.com.br.
+
+Email para contato: nicolas@morinfo.com.br.
 
 Entusiasta nas tecnologias ReactJS, ReactNative e NodeJS
 
